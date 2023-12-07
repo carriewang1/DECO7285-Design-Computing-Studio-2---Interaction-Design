@@ -5,6 +5,6 @@ Iinterdisciplinary teams of students undertake studio-based design and developme
 
 This repository only include my personal refelctions during the design process and along the processing project.
 
-## [Ethical conduct in Design]()
+## [Ethical conduct in Design](https://github.com/carriewang1/DECO7285-Design-Computing-Studio-2---Interaction-Design/blob/main/Ethical_Conduct_in_Design.pdf)
 I prepared a proposal for their design projects following ethical insights. I have written a report of ~1500 words, which consists of identifying ethical issues in my design projects and subsequent decisions taken;
 identifying and integrating specific ethical principles in my project and critiquing the overall impact my project could have on society. 
